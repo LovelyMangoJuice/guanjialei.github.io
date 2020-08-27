@@ -4,7 +4,8 @@
   "description": "You can use the [editor on GitHub](https://github.com/LovelyMangoJuice/guanjialei.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "hexo generate"
   },
   "repository": {
     "type": "git",
